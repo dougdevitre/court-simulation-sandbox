@@ -1,0 +1,28 @@
+{
+  "name": "@justice-os/court-sandbox",
+  "version": "0.1.0",
+  "description": "Full courtroom simulation with AI-powered role-play, real-time feedback, and outcome prediction",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint src/",
+    "test": "jest",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "justice",
+    "court-simulation",
+    "legal-tech",
+    "ai-roleplay",
+    "pro-se"
+  ],
+  "author": "Justice OS Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougdevitre/court-simulation-sandbox.git"
+  }
+}
